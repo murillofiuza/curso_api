@@ -11,13 +11,13 @@ create database teste_api;
 use teste_api;
 
 <br>
-<br>create table testamento(
+create table testamento(
 <br>id int auto_increment primary key,
 <br>nome varchar(40)
 <br>);
 
 <br>
-<br>create table livro(
+create table livro(
 <br>id int auto_increment primary key,
 <br>nome varchar(40) ,
 <br>abreviacao varchar(10),
