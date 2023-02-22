@@ -4,7 +4,15 @@
 <br>-Insomnia - para fazer os end point e consumir.
 <br>-VSCode - para trabalhar o codigo
 
-<br>BANCO DE DADOS
+<br>.env
+<br>DB_CONNECTION=mysql
+<br>DB_HOST=127.0.0.1
+<br>DB_PORT=3306
+<br>DB_DATABASE=teste_api
+<br>DB_USERNAME=root
+<br>DB_PASSWORD=
+
+<br>BANCO DE DADOS do projeto de API
 <br>
 create database teste_api;
 <br>
